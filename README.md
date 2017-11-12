@@ -7,6 +7,5 @@
 
 2.필요한 라이브러리 다운받기
    - pandas
-   - xlrd(excelfile불러옴)
    - gensim(word2vec에필요)
     ...
